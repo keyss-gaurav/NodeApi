@@ -1,4 +1,4 @@
-const con = require('./db/connection');
+const con = require('./db/connection')
 const routes = require('./route');
 global.constants = require('./constants');
 const express = require('express');
